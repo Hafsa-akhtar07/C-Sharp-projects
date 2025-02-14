@@ -1,0 +1,14 @@
+E:\New folder (2)\OneDrive\Desktop\FoodOrderingSystem\FoodOrderingSystem\bin\Debug\net8.0\FoodOrderingSystem.exe
+E:\New folder (2)\OneDrive\Desktop\FoodOrderingSystem\FoodOrderingSystem\bin\Debug\net8.0\FoodOrderingSystem.deps.json
+E:\New folder (2)\OneDrive\Desktop\FoodOrderingSystem\FoodOrderingSystem\bin\Debug\net8.0\FoodOrderingSystem.runtimeconfig.json
+E:\New folder (2)\OneDrive\Desktop\FoodOrderingSystem\FoodOrderingSystem\bin\Debug\net8.0\FoodOrderingSystem.dll
+E:\New folder (2)\OneDrive\Desktop\FoodOrderingSystem\FoodOrderingSystem\bin\Debug\net8.0\FoodOrderingSystem.pdb
+E:\New folder (2)\OneDrive\Desktop\FoodOrderingSystem\FoodOrderingSystem\obj\Debug\net8.0\FoodOrderingSystem.GeneratedMSBuildEditorConfig.editorconfig
+E:\New folder (2)\OneDrive\Desktop\FoodOrderingSystem\FoodOrderingSystem\obj\Debug\net8.0\FoodOrderingSystem.AssemblyInfoInputs.cache
+E:\New folder (2)\OneDrive\Desktop\FoodOrderingSystem\FoodOrderingSystem\obj\Debug\net8.0\FoodOrderingSystem.AssemblyInfo.cs
+E:\New folder (2)\OneDrive\Desktop\FoodOrderingSystem\FoodOrderingSystem\obj\Debug\net8.0\FoodOrderingSystem.csproj.CoreCompileInputs.cache
+E:\New folder (2)\OneDrive\Desktop\FoodOrderingSystem\FoodOrderingSystem\obj\Debug\net8.0\FoodOrderingSystem.dll
+E:\New folder (2)\OneDrive\Desktop\FoodOrderingSystem\FoodOrderingSystem\obj\Debug\net8.0\refint\FoodOrderingSystem.dll
+E:\New folder (2)\OneDrive\Desktop\FoodOrderingSystem\FoodOrderingSystem\obj\Debug\net8.0\FoodOrderingSystem.pdb
+E:\New folder (2)\OneDrive\Desktop\FoodOrderingSystem\FoodOrderingSystem\obj\Debug\net8.0\FoodOrderingSystem.genruntimeconfig.cache
+E:\New folder (2)\OneDrive\Desktop\FoodOrderingSystem\FoodOrderingSystem\obj\Debug\net8.0\ref\FoodOrderingSystem.dll

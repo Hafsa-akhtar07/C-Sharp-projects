@@ -1,0 +1,4 @@
+Pizza,567
+Burger,200
+Pasta,500
+Coke,120
