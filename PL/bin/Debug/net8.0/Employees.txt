@@ -1,4 +1,0 @@
-Hafsa,1,HR,2-2-2,500000
-Madiha,2,HR,2-3-4,34567
-Shaheen,3,Management,4-5-25,56789
-M.Akhtar,4,Mining,1-10-10,600000
