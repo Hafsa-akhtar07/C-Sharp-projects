@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\6th Sem\\SCD\\Emplyee Management System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1E1F5D42-C74E-43D8-BDEF-FE74A89A6598}|PL\\PL.csproj|e:\\6th sem\\scd\\emplyee management system\\pl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E1F5D42-C74E-43D8-BDEF-FE74A89A6598}|PL\\PL.csproj|solutionrelative:pl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5835C707-BB19-4F16-ACD3-25256D54B757}|BLL\\BLL.csproj|e:\\6th sem\\scd\\emplyee management system\\bll\\employeebll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5835C707-BB19-4F16-ACD3-25256D54B757}|BLL\\BLL.csproj|solutionrelative:bll\\employeebll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69C135BC-ADC9-45B8-BFCD-5E704A6C4F37}|DAL\\DAL.csproj|e:\\6th sem\\scd\\emplyee management system\\dal\\employeedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69C135BC-ADC9-45B8-BFCD-5E704A6C4F37}|DAL\\DAL.csproj|solutionrelative:dal\\employeedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5835C707-BB19-4F16-ACD3-25256D54B757}|BLL\\BLL.csproj|e:\\6th sem\\scd\\emplyee management system\\bll\\departmentbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5835C707-BB19-4F16-ACD3-25256D54B757}|BLL\\BLL.csproj|solutionrelative:bll\\departmentbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69C135BC-ADC9-45B8-BFCD-5E704A6C4F37}|DAL\\DAL.csproj|e:\\6th sem\\scd\\emplyee management system\\dal\\departmentdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69C135BC-ADC9-45B8-BFCD-5E704A6C4F37}|DAL\\DAL.csproj|solutionrelative:dal\\departmentdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B00D1EF-142F-44FF-B6A9-775E2403C287}|DTO\\DTO.csproj|e:\\6th sem\\scd\\emplyee management system\\dto\\departmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B00D1EF-142F-44FF-B6A9-775E2403C287}|DTO\\DTO.csproj|solutionrelative:dto\\departmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DepartmentDTO.cs",
+              "DocumentMoniker": "E:\\6th Sem\\SCD\\Emplyee Management System\\DTO\\DepartmentDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\DepartmentDTO.cs",
+              "ToolTip": "E:\\6th Sem\\SCD\\Emplyee Management System\\DTO\\DepartmentDTO.cs",
+              "RelativeToolTip": "DTO\\DepartmentDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T07:30:51.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DepartmentDAL.cs",
+              "DocumentMoniker": "E:\\6th Sem\\SCD\\Emplyee Management System\\DAL\\DepartmentDAL.cs",
+              "RelativeDocumentMoniker": "DAL\\DepartmentDAL.cs",
+              "ToolTip": "E:\\6th Sem\\SCD\\Emplyee Management System\\DAL\\DepartmentDAL.cs",
+              "RelativeToolTip": "DAL\\DepartmentDAL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAMIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T07:19:57.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DepartmentBLL.cs",
+              "DocumentMoniker": "E:\\6th Sem\\SCD\\Emplyee Management System\\BLL\\DepartmentBLL.cs",
+              "RelativeDocumentMoniker": "BLL\\DepartmentBLL.cs",
+              "ToolTip": "E:\\6th Sem\\SCD\\Emplyee Management System\\BLL\\DepartmentBLL.cs",
+              "RelativeToolTip": "BLL\\DepartmentBLL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T07:19:31.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeDAL.cs",
+              "DocumentMoniker": "E:\\6th Sem\\SCD\\Emplyee Management System\\DAL\\EmployeeDAL.cs",
+              "RelativeDocumentMoniker": "DAL\\EmployeeDAL.cs",
+              "ToolTip": "E:\\6th Sem\\SCD\\Emplyee Management System\\DAL\\EmployeeDAL.cs",
+              "RelativeToolTip": "DAL\\EmployeeDAL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAMQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T06:47:50.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeBLL.cs",
+              "DocumentMoniker": "E:\\6th Sem\\SCD\\Emplyee Management System\\BLL\\EmployeeBLL.cs",
+              "RelativeDocumentMoniker": "BLL\\EmployeeBLL.cs",
+              "ToolTip": "E:\\6th Sem\\SCD\\Emplyee Management System\\BLL\\EmployeeBLL.cs",
+              "RelativeToolTip": "BLL\\EmployeeBLL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T06:48:22.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\6th Sem\\SCD\\Emplyee Management System\\PL\\Program.cs",
+              "RelativeDocumentMoniker": "PL\\Program.cs",
+              "ToolTip": "E:\\6th Sem\\SCD\\Emplyee Management System\\PL\\Program.cs",
+              "RelativeToolTip": "PL\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T06:46:09.74Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

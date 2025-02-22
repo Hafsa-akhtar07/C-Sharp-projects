@@ -1,0 +1,3 @@
+HR,1,Manages employees
+Management,2,Manages salaries
+Mining,3,Handles mining work
